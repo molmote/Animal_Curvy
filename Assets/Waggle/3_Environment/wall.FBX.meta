@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 29e94056a4aeb486abc0f99f51b2f739
+timeCreated: 1426170328
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: wall_01
+    100004: wall_02
+    100006: wall_03
+    100008: wall_04
+    100010: wall_05
+    100012: wall_06
+    100014: wall_07
+    100016: 01
+    100018: 02
+    100020: 03
+    100022: 04
+    100024: 05
+    100026: 06
+    100028: 07
+    100030: 02_outside
+    100032: 03_outside
+    100034: 04_outside
+    100036: 05_outside
+    100038: 06_outside
+    100040: 00
+    100042: Obstacle
+    100044: 00 Line
+    100046: 02 Line
+    100048: 03 Line
+    100050: 04 Line
+    100052: 05 Line
+    100054: board
+    100056: Wall Cover
+    100058: wheel
+    400000: //RootNode
+    400002: wall_01
+    400004: wall_02
+    400006: wall_03
+    400008: wall_04
+    400010: wall_05
+    400012: wall_06
+    400014: wall_07
+    400016: 01
+    400018: 02
+    400020: 03
+    400022: 04
+    400024: 05
+    400026: 06
+    400028: 07
+    400030: 02_outside
+    400032: 03_outside
+    400034: 04_outside
+    400036: 05_outside
+    400038: 06_outside
+    400040: 00
+    400042: Obstacle
+    400044: 00 Line
+    400046: 02 Line
+    400048: 03 Line
+    400050: 04 Line
+    400052: 05 Line
+    400054: board
+    400056: Wall Cover
+    400058: wheel
+    2300000: wall_01
+    2300002: wall_02
+    2300004: wall_03
+    2300006: wall_04
+    2300008: wall_05
+    2300010: wall_06
+    2300012: wall_07
+    2300014: 01
+    2300016: 02
+    2300018: 03
+    2300020: 04
+    2300022: 05
+    2300024: 06
+    2300026: 07
+    2300028: 02_outside
+    2300030: 03_outside
+    2300032: 04_outside
+    2300034: 05_outside
+    2300036: 06_outside
+    2300038: 00
+    2300040: Obstacle
+    2300042: 00 Line
+    2300044: 02 Line
+    2300046: 03 Line
+    2300048: 04 Line
+    2300050: 05 Line
+    2300052: board
+    2300054: Wall Cover
+    2300056: wheel
+    3300000: wall_01
+    3300002: wall_02
+    3300004: wall_03
+    3300006: wall_04
+    3300008: wall_05
+    3300010: wall_06
+    3300012: wall_07
+    3300014: 01
+    3300016: 02
+    3300018: 03
+    3300020: 04
+    3300022: 05
+    3300024: 06
+    3300026: 07
+    3300028: 02_outside
+    3300030: 03_outside
+    3300032: 04_outside
+    3300034: 05_outside
+    3300036: 06_outside
+    3300038: 00
+    3300040: Obstacle
+    3300042: 00 Line
+    3300044: 02 Line
+    3300046: 03 Line
+    3300048: 04 Line
+    3300050: 05 Line
+    3300052: board
+    3300054: Wall Cover
+    3300056: wheel
+    4300000: wall_03
+    4300002: wall_05
+    4300004: wall_07
+    4300006: wall_01
+    4300008: wall_02
+    4300010: wall_04
+    4300012: wall_06
+    4300014: 01
+    4300016: 02
+    4300018: 04
+    4300020: 03
+    4300022: 05
+    4300024: 06
+    4300026: 07
+    4300028: 02_outside
+    4300030: 03_outside
+    4300032: 04_outside
+    4300034: 05_outside
+    4300036: 06_outside
+    4300038: 00
+    4300040: Obstacle
+    4300042: board
+    4300044: wheel
+    4300046: 00 Line
+    4300048: 02 Line
+    4300050: 03 Line
+    4300052: 04 Line
+    4300054: 05 Line
+    4300056: Wall Cover
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

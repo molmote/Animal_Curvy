@@ -1,0 +1,652 @@
+[
+  {
+    "FIELD1":"char_0",
+    "index":0,
+    "prefabName":"Tweet",
+    "purchaseType":"TWITTER",
+    "unlockCondition":0,
+    "size":"Small",
+    "unlockSound":"Animal Bird",
+    "dieSound":"Die Bird"
+  },
+  {
+    "FIELD1":"char_1",
+    "index":1,
+    "prefabName":"Dislike Penguin",
+    "purchaseType":"FACEBOOK",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Penguin",
+    "dieSound":"Animal Penguin"
+  },
+  {
+    "FIELD1":"char_2",
+    "index":2,
+    "prefabName":"Rabbit",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_3",
+    "index":3,
+    "prefabName":"Black Cat",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Cat",
+    "dieSound":"Animal Cat"
+  },
+  {
+    "FIELD1":"char_4",
+    "index":4,
+    "prefabName":"Persian",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Cat",
+    "dieSound":"Animal Cat"
+  },
+  {
+    "FIELD1":"char_5",
+    "index":5,
+    "prefabName":"Lucky Cat",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Cat",
+    "dieSound":"Animal Cat"
+  },
+  {
+    "FIELD1":"char_6",
+    "index":6,
+    "prefabName":"Fox",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Dog",
+    "dieSound":"Die Dog"
+  },
+  {
+    "FIELD1":"char_7",
+    "index":7,
+    "prefabName":"Dr. D-Fox",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Dog",
+    "dieSound":"Die Dog"
+  },
+  {
+    "FIELD1":"char_8",
+    "index":8,
+    "prefabName":"Sleepy Fox",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Dog",
+    "dieSound":"Die Dog"
+  },
+  {
+    "FIELD1":"char_9",
+    "index":9,
+    "prefabName":"Mouse",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Small",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_10",
+    "index":10,
+    "prefabName":"Hamster",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Small",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_11",
+    "index":11,
+    "prefabName":"Hamstery",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Small",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_12",
+    "index":12,
+    "prefabName":"Beagle",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Dog",
+    "dieSound":"Die Dog"
+  },
+  {
+    "FIELD1":"char_13",
+    "index":13,
+    "prefabName":"Pug",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Dog",
+    "dieSound":"Die Dog"
+  },
+  {
+    "FIELD1":"char_14",
+    "index":14,
+    "prefabName":"Husky",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Dog",
+    "dieSound":"Die Dog"
+  },
+  {
+    "FIELD1":"char_15",
+    "index":15,
+    "prefabName":"Raccoon",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_16",
+    "index":16,
+    "prefabName":"Cake Raccoon",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_17",
+    "index":17,
+    "prefabName":"Bear",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Big",
+    "unlockSound":"Animal Bear",
+    "dieSound":"Animal Bear"
+  },
+  {
+    "FIELD1":"char_18",
+    "index":18,
+    "prefabName":"Panda",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Big",
+    "unlockSound":"Animal Bear",
+    "dieSound":"Animal Bear"
+  },
+  {
+    "FIELD1":"char_19",
+    "index":19,
+    "prefabName":"Hip Bear",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Big",
+    "unlockSound":"Animal Bear",
+    "dieSound":"Animal Bear"
+  },
+  {
+    "FIELD1":"char_20",
+    "index":20,
+    "prefabName":"Penguin",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Penguin",
+    "dieSound":"Animal Penguin"
+  },
+  {
+    "FIELD1":"char_21",
+    "index":21,
+    "prefabName":"Pengbo",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Penguin",
+    "dieSound":"Animal Penguin"
+  },
+  {
+    "FIELD1":"char_22",
+    "index":22,
+    "prefabName":"Sheep",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Sheep",
+    "dieSound":"Animal Sheep"
+  },
+  {
+    "FIELD1":"char_23",
+    "index":23,
+    "prefabName":"Shadow Sheep",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Sheep",
+    "dieSound":"Animal Sheep"
+  },
+  {
+    "FIELD1":"char_24",
+    "index":24,
+    "prefabName":"Goat",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Sheep",
+    "dieSound":"Animal Sheep"
+  },
+  {
+    "FIELD1":"char_25",
+    "index":25,
+    "prefabName":"Goateen",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Sheep",
+    "dieSound":"Animal Sheep"
+  },
+  {
+    "FIELD1":"char_26",
+    "index":26,
+    "prefabName":"Pig",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Pig",
+    "dieSound":"Animal Pig"
+  },
+  {
+    "FIELD1":"char_27",
+    "index":27,
+    "prefabName":"Golden Pig",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Pig",
+    "dieSound":"Animal Pig"
+  },
+  {
+    "FIELD1":"char_28",
+    "index":28,
+    "prefabName":"Cow",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Cow",
+    "dieSound":"Animal Cow"
+  },
+  {
+    "FIELD1":"char_29",
+    "index":29,
+    "prefabName":"Milk Cow",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Cow",
+    "dieSound":"Animal Cow"
+  },
+  {
+    "FIELD1":"char_30",
+    "index":30,
+    "prefabName":"Rabbit Angel",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_31",
+    "index":31,
+    "prefabName":"Rabbit Idol",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_32",
+    "index":32,
+    "prefabName":"Rabbit Key",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_33",
+    "index":33,
+    "prefabName":"Rabbit Prince",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_34",
+    "index":34,
+    "prefabName":"Rabbit Magician",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_35",
+    "index":35,
+    "prefabName":"Jackalope",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_36",
+    "index":36,
+    "prefabName":"Movie Jack",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Mouse",
+    "dieSound":"Animal Mouse"
+  },
+  {
+    "FIELD1":"char_37",
+    "index":37,
+    "prefabName":"Aligator",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Aligator",
+    "dieSound":"Animal Aligator"
+  },
+  {
+    "FIELD1":"char_38",
+    "index":38,
+    "prefabName":"Frog",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Small",
+    "unlockSound":"Animal Frog",
+    "dieSound":"Animal Frog"
+  },
+  {
+    "FIELD1":"char_39",
+    "index":39,
+    "prefabName":"Frogdo",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Small",
+    "unlockSound":"Animal Frog",
+    "dieSound":"Animal Frog"
+  },
+  {
+    "FIELD1":"char_40",
+    "index":40,
+    "prefabName":"Snake",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Snake",
+    "dieSound":"Animal Snake"
+  },
+  {
+    "FIELD1":"char_41",
+    "index":41,
+    "prefabName":"Sk8ter Boy",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Snake",
+    "dieSound":"Animal Snake"
+  },
+  {
+    "FIELD1":"char_42",
+    "index":42,
+    "prefabName":"Chick",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Small",
+    "unlockSound":"Animal Bird",
+    "dieSound":"Die Bird"
+  },
+  {
+    "FIELD1":"char_43",
+    "index":43,
+    "prefabName":"Owlaw",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Owl",
+    "dieSound":"Animal Owl"
+  },
+  {
+    "FIELD1":"char_44",
+    "index":44,
+    "prefabName":"Peacock",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Bird",
+    "dieSound":"Animal Bird"
+  },
+  {
+    "FIELD1":"char_45",
+    "index":45,
+    "prefabName":"Pirrot",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Bird",
+    "dieSound":"Die Bird"
+  },
+  {
+    "FIELD1":"char_46",
+    "index":46,
+    "prefabName":"Rooster",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Rooster",
+    "dieSound":"Die Bird"
+  },
+  {
+    "FIELD1":"char_47",
+    "index":47,
+    "prefabName":"Eagle Mom",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Eagle",
+    "dieSound":"Die Bird"
+  },
+  {
+    "FIELD1":"char_48",
+    "index":48,
+    "prefabName":"Monkey",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Monkey",
+    "dieSound":"Animal Monkey"
+  },
+  {
+    "FIELD1":"char_49",
+    "index":49,
+    "prefabName":"Wolf",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Wolf",
+    "dieSound":"Die Dog"
+  },
+  {
+    "FIELD1":"char_50",
+    "index":50,
+    "prefabName":"Tiger",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Tiger",
+    "dieSound":"Animal Tiger"
+  },
+  {
+    "FIELD1":"char_51",
+    "index":51,
+    "prefabName":"Lion",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Lion",
+    "dieSound":"Animal Lion"
+  },
+  {
+    "FIELD1":"char_52",
+    "index":52,
+    "prefabName":"Giraffe",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Camel",
+    "dieSound":"Animal Camel"
+  },
+  {
+    "FIELD1":"char_53",
+    "index":53,
+    "prefabName":"Reindeer",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Reindeer",
+    "dieSound":"Animal Reindeer"
+  },
+  {
+    "FIELD1":"char_54",
+    "index":54,
+    "prefabName":"Elephant",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Big",
+    "unlockSound":"Animal Elephant",
+    "dieSound":"Animal Elephant"
+  },
+  {
+    "FIELD1":"char_55",
+    "index":55,
+    "prefabName":"Horse",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Horse",
+    "dieSound":"Animal Horse"
+  },
+  {
+    "FIELD1":"char_56",
+    "index":56,
+    "prefabName":"Rhino",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Big",
+    "unlockSound":"Animal Camel",
+    "dieSound":"Animal Camel"
+  },
+  {
+    "FIELD1":"char_57",
+    "index":57,
+    "prefabName":"Fish Dude",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Small",
+    "unlockSound":"Animal Fish",
+    "dieSound":"Animal Fish"
+  },
+  {
+    "FIELD1":"char_58",
+    "index":58,
+    "prefabName":"Sphinx",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Cat",
+    "dieSound":"Animal Cat"
+  },
+  {
+    "FIELD1":"char_59",
+    "index":59,
+    "prefabName":"Pheo",
+    "purchaseType":"NORMAL",
+    "unlockCondition":0,
+    "size":"Normal",
+    "unlockSound":"Animal Eagle",
+    "dieSound":"Die Bird"
+  },
+  {
+    "FIELD1":"char_60",
+    "index":60,
+    "prefabName":"Meat Ball",
+    "purchaseType":"COMBO",
+    "unlockCondition":20,
+    "size":"Big",
+    "unlockSound":"Animal Dino",
+    "dieSound":"Animal Dino"
+  },
+  {
+    "FIELD1":"char_61",
+    "index":61,
+    "prefabName":"Mankind",
+    "purchaseType":"COMBO",
+    "unlockCondition":40,
+    "size":"Normal",
+    "unlockSound":"Animal Mankind",
+    "dieSound":"Animal Mankind"
+  },
+  {
+    "FIELD1":"char_62",
+    "index":62,
+    "prefabName":"Dragon Fairy",
+    "purchaseType":"SCORE",
+    "unlockCondition":700,
+    "size":"Normal",
+    "unlockSound":"Animal Fairy Dragon",
+    "dieSound":"Animal Fairy Dragon"
+  },
+  {
+    "FIELD1":"char_63",
+    "index":63,
+    "prefabName":"Pegasus",
+    "purchaseType":"SCORE",
+    "unlockCondition":1000,
+    "size":"Normal",
+    "unlockSound":"Animal Horse",
+    "dieSound":"Animal Horse"
+  },
+  {
+    "FIELD1":"char_64",
+    "index":64,
+    "prefabName":"Unirain",
+    "purchaseType":"OBSTACLE",
+    "unlockCondition":200,
+    "size":"Normal",
+    "unlockSound":"Animal Horse",
+    "dieSound":"Animal Horse"
+  }
+]

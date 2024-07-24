@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\scripts\\ingame_implementation\\entity_implementation\\gameplayerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingame_implementation\\entity_implementation\\gameplayerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|e:\\projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\scripts\\0_deprecated\\ui\\spinpopupentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\0_deprecated\\ui\\spinpopupentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|e:\\projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\scripts\\ui_implementation\\bases\\basewidgetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_implementation\\bases\\basewidgetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\include\\itweenfsmevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\playmaker\\include\\itweenfsmevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\scripts\\ui_implementation\\bases\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_implementation\\bases\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB8C725-5475-3483-4DC5-6838DEF2C287}|Assembly-CSharp-Editor.csproj|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\editor\\playmakerguiinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB8C725-5475-3483-4DC5-6838DEF2C287}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\playmaker\\editor\\playmakerguiinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\scripts\\ui_implementation\\bases\\mainuientitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_implementation\\bases\\mainuientitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\scripts\\ingame_implementation\\tilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingame_implementation\\tilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\scripts\\9_plugin_managerment\\myadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\9_plugin_managerment\\myadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Temp\\StagingArea\\android-libraries\\unity-android-resources\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\StagingArea\\android-libraries\\unity-android-resources\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB8C725-5475-3483-4DC5-6838DEF2C287}|Assembly-CSharp-Editor.csproj|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\editor\\playmakerglobalsinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB8C725-5475-3483-4DC5-6838DEF2C287}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\playmaker\\editor\\playmakerglobalsinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}|Assembly-CSharp.csproj|solutionrelative:assets\\playmaker\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\editor\\playmakerautoupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\playmaker\\editor\\playmakerautoupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\editor\\fsmtemplateeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\playmaker\\editor\\fsmtemplateeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\editor\\fsmeditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\playmaker\\editor\\fsmeditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\editor\\fsmcomponentinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\playmaker\\editor\\fsmcomponentinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\playmaker\\editor\\aboutwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\playmaker\\editor\\aboutwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\assets\\itween\\playmaker\\editor\\itweenmovetoactioneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\itween\\playmaker\\editor\\itweenmovetoactioneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainUIEntityManager.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\UI_Implementation\\Bases\\MainUIEntityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Implementation\\Bases\\MainUIEntityManager.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\UI_Implementation\\Bases\\MainUIEntityManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Implementation\\Bases\\MainUIEntityManager.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:27:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyAdManager.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\9_Plugin_Managerment\\MyAdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\9_Plugin_Managerment\\MyAdManager.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\9_Plugin_Managerment\\MyAdManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\9_Plugin_Managerment\\MyAdManager.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwIUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:26:51.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Temp\\StagingArea\\android-libraries\\unity-android-resources\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Temp\\StagingArea\\android-libraries\\unity-android-resources\\AndroidManifest.xml",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Temp\\StagingArea\\android-libraries\\unity-android-resources\\AndroidManifest.xml",
+              "RelativeToolTip": "Temp\\StagingArea\\android-libraries\\unity-android-resources\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-23T20:07:32.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Readme.txt",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Readme.txt",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Readme.txt",
+              "RelativeToolTip": "Assets\\PlayMaker\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-23T19:40:47.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseWidgetEntity.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\UI_Implementation\\Bases\\BaseWidgetEntity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Implementation\\Bases\\BaseWidgetEntity.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\UI_Implementation\\Bases\\BaseWidgetEntity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Implementation\\Bases\\BaseWidgetEntity.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAADgvwEBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:29:43.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayMakerGUIInspector.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\PlayMakerGUIInspector.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Editor\\PlayMakerGUIInspector.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\PlayMakerGUIInspector.cs",
+              "RelativeToolTip": "Assets\\PlayMaker\\Editor\\PlayMakerGUIInspector.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:00:04.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayMakerGlobalsInspector.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\PlayMakerGlobalsInspector.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Editor\\PlayMakerGlobalsInspector.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\PlayMakerGlobalsInspector.cs",
+              "RelativeToolTip": "Assets\\PlayMaker\\Editor\\PlayMakerGlobalsInspector.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wDwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:59:43.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayMakerAutoUpdater.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\PlayMakerAutoUpdater.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Editor\\PlayMakerAutoUpdater.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\PlayMakerAutoUpdater.cs",
+              "RelativeToolTip": "Assets\\PlayMaker\\Editor\\PlayMakerAutoUpdater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:59:37.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FsmTemplateEditor.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\FsmTemplateEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Editor\\FsmTemplateEditor.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\FsmTemplateEditor.cs",
+              "RelativeToolTip": "Assets\\PlayMaker\\Editor\\FsmTemplateEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:59:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FsmEditorWindow.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\FsmEditorWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Editor\\FsmEditorWindow.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\FsmEditorWindow.cs",
+              "RelativeToolTip": "Assets\\PlayMaker\\Editor\\FsmEditorWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:59:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FsmComponentInspector.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\FsmComponentInspector.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Editor\\FsmComponentInspector.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\FsmComponentInspector.cs",
+              "RelativeToolTip": "Assets\\PlayMaker\\Editor\\FsmComponentInspector.cs",
+              "ViewState": "AQIAAC4BAAAAAAAAAAAcwFcBAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:57:18.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutWindow.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\AboutWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Editor\\AboutWindow.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Editor\\AboutWindow.cs",
+              "RelativeToolTip": "Assets\\PlayMaker\\Editor\\AboutWindow.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAEkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:56:40.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "iTweenMoveToActionEditor.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\iTween\\PlayMaker\\Editor\\iTweenMoveToActionEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\iTween\\PlayMaker\\Editor\\iTweenMoveToActionEditor.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\iTween\\PlayMaker\\Editor\\iTweenMoveToActionEditor.cs",
+              "RelativeToolTip": "Assets\\iTween\\PlayMaker\\Editor\\iTweenMoveToActionEditor.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAjwE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:51:36.699Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpinPopupEntity.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\0_deprecated\\ui\\SpinPopupEntity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\0_deprecated\\ui\\SpinPopupEntity.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\0_deprecated\\ui\\SpinPopupEntity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\0_deprecated\\ui\\SpinPopupEntity.cs",
+              "ViewState": "AQIAAEoCAAAAAAAAAADgv2ACAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:35:35.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iTweenFSMEvents.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Include\\iTweenFSMEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayMaker\\Include\\iTweenFSMEvents.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\PlayMaker\\Include\\iTweenFSMEvents.cs",
+              "RelativeToolTip": "Assets\\PlayMaker\\Include\\iTweenFSMEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:32:16.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameUIManager.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\UI_Implementation\\Bases\\GameUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Implementation\\Bases\\GameUIManager.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\UI_Implementation\\Bases\\GameUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Implementation\\Bases\\GameUIManager.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:29:22.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TileController.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\InGame_Implementation\\TileController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGame_Implementation\\TileController.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\InGame_Implementation\\TileController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGame_Implementation\\TileController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:29:13.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamePlayerEntity.cs",
+              "DocumentMoniker": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\InGame_Implementation\\Entity_Implementation\\GamePlayerEntity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGame_Implementation\\Entity_Implementation\\GamePlayerEntity.cs",
+              "ToolTip": "E:\\Projects\\animalrush - \uBCF5\uC0AC\uBCF8\\Assets\\Scripts\\InGame_Implementation\\Entity_Implementation\\GamePlayerEntity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGame_Implementation\\Entity_Implementation\\GamePlayerEntity.cs",
+              "ViewState": "AQIAAEAEAAAAAAAAAAAswGwEAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:28:50.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

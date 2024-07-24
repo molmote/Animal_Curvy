@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animalrush - 복사본", "Assembly-CSharp.csproj", "{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animalrush - 복사본", "Assembly-CSharp-firstpass.csproj", "{4BC23171-9A12-D4F7-2126-EEC40045DB5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animalrush - 복사본", "Assembly-CSharp-Editor.csproj", "{FBB8C725-5475-3483-4DC5-6838DEF2C287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916C51F1-DA7D-BFEE-85FF-A9FDFDA58877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC23171-9A12-D4F7-2126-EEC40045DB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC23171-9A12-D4F7-2126-EEC40045DB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC23171-9A12-D4F7-2126-EEC40045DB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC23171-9A12-D4F7-2126-EEC40045DB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB8C725-5475-3483-4DC5-6838DEF2C287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB8C725-5475-3483-4DC5-6838DEF2C287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB8C725-5475-3483-4DC5-6838DEF2C287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB8C725-5475-3483-4DC5-6838DEF2C287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

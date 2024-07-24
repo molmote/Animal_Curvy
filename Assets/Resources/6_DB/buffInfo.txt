@@ -1,0 +1,93 @@
+[
+  {
+    "index":0,
+    "name":"X2 DIAMONDS FOR (x) GAMES",
+    "normalAmount":2,
+    "normalChance":10,
+    "FIELD5":"22.73%",
+    "megaAmount":4,
+    "megaChance":"1",
+    "FIELD8":"14.29%",
+    "44":7,
+    "type":"DIAMOND",
+    "effect":2
+  },
+  {
+    "index":1,
+    "name":"X4 DIAMONDS FOR (x) GAMES",
+    "normalAmount":1,
+    "normalChance":5,
+    "FIELD5":"11.36%",
+    "megaAmount":2,
+    "megaChance":"1",
+    "FIELD8":"14.29%",
+    "44":null,
+    "type":"DIAMOND",
+    "effect":4
+  },
+  {
+    "index":2,
+    "name":"X10 DIAMONDS FOR (x) GAMES",
+    "normalAmount":1,
+    "normalChance":1,
+    "FIELD5":"2.27%",
+    "megaAmount":2,
+    "megaChance":"1",
+    "FIELD8":"14.29%",
+    "44":null,
+    "type":"DIAMOND",
+    "effect":10
+  },
+  {
+    "index":3,
+    "name":"X1.5 SCORE FOR (x) GAMES",
+    "normalAmount":2,
+    "normalChance":10,
+    "FIELD5":"22.73%",
+    "megaAmount":4,
+    "megaChance":"1",
+    "FIELD8":"14.29%",
+    "44":null,
+    "type":"SCORE",
+    "effect":1.5
+  },
+  {
+    "index":4,
+    "name":"X2 SCORE FOR (x) GAMES",
+    "normalAmount":1,
+    "normalChance":3,
+    "FIELD5":"6.82%",
+    "megaAmount":2,
+    "megaChance":"1",
+    "FIELD8":"14.29%",
+    "44":null,
+    "type":"SCORE",
+    "effect":2
+  },
+  {
+    "index":5,
+    "name":"X2 COMBO FOR (x) GAMES",
+    "normalAmount":2,
+    "normalChance":10,
+    "FIELD5":"22.73%",
+    "megaAmount":4,
+    "megaChance":"1",
+    "FIELD8":"14.29%",
+    "44":null,
+    "type":"COMBO",
+    "effect":2
+  },
+  {
+    "index":6,
+    "name":"X4 COMBO FOR (x) GAMES",
+    "normalAmount":1,
+    "normalChance":5,
+    "FIELD5":"11.36%",
+    "megaAmount":2,
+    "megaChance":"1",
+    "FIELD8":"14.29%",
+    "44":null,
+    "type":"COMBO",
+    "effect":4
+  }
+]

@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: cb8335cfb492d44f8bd56176c2dc68ad
+labels:
+- USFX
+- swing
+- kick
+- punch
+- air
+- whoosh
+- mono
+- jump
+- fighting
+timeCreated: 1432989305
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 1
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

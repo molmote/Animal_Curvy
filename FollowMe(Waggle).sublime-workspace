@@ -1,0 +1,1647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dark",
+				"darkPause"
+			],
+			[
+				"fadeTime",
+				"fadeTimeLimit"
+			],
+			[
+				"ex",
+				"Exp"
+			],
+			[
+				"node",
+				"nodeCurrent"
+			],
+			[
+				"dil",
+				"dialogueOrder"
+			],
+			[
+				"relation",
+				"relationshipIndex"
+			],
+			[
+				"cat",
+				"catchUp"
+			],
+			[
+				"Save",
+				"SaveLoadSystem"
+			],
+			[
+				"ani",
+				"aniStart"
+			],
+			[
+				"Bi",
+				"Bianca"
+			],
+			[
+				"dialg",
+				"dialogueOrder"
+			],
+			[
+				"dial",
+				"dialogueOrder"
+			],
+			[
+				"curre",
+				"currentDeposit"
+			],
+			[
+				"current",
+				"currentNode"
+			],
+			[
+				"dia",
+				"diaNode"
+			],
+			[
+				"curr",
+				"CurrentCharacter"
+			],
+			[
+				"Bian",
+				"BiancaTalk"
+			],
+			[
+				"tree",
+				"treeInitial"
+			],
+			[
+				"Next",
+				"NextScene"
+			],
+			[
+				"Anise",
+				"AnisePoint"
+			],
+			[
+				"Play",
+				"PlayEvents"
+			],
+			[
+				"Pl",
+				"playername"
+			],
+			[
+				"anise",
+				"aniseDefaultAnimation"
+			],
+			[
+				"bianca",
+				"biancaDefaultAnimation"
+			],
+			[
+				"brie",
+				"brieDefaultAnimation"
+			],
+			[
+				"temp",
+				"tempText"
+			],
+			[
+				"is",
+				"isEventDialogueOn"
+			],
+			[
+				"Brie",
+				"BrieDialogue"
+			],
+			[
+				"NP",
+				"NPCDialogue"
+			],
+			[
+				"first",
+				"firstBlankLineIndex"
+			],
+			[
+				"Main",
+				"MainGameManager"
+			],
+			[
+				"off",
+				"offIndex"
+			],
+			[
+				"NPC",
+				"NPCName"
+			],
+			[
+				"short",
+				"shortSize"
+			],
+			[
+				"Set",
+				"SetActive"
+			],
+			[
+				"ga",
+				"gameObject"
+			],
+			[
+				"insi",
+				"insideCount"
+			],
+			[
+				"out",
+				"outsideCount"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"Min",
+				"MainGameManager"
+			],
+			[
+				"Load",
+				"LoadSuccess"
+			],
+			[
+				"hold",
+				"holdUp"
+			],
+			[
+				"eff",
+				"effectName"
+			],
+			[
+				"nde",
+				"node_id"
+			],
+			[
+				"func",
+				"functionName"
+			],
+			[
+				"Ve",
+				"Vector3"
+			],
+			[
+				"tou",
+				"touchedElapsed"
+			],
+			[
+				"sele",
+				"selectedDay"
+			],
+			[
+				"histo",
+				"histogramX"
+			],
+			[
+				"Get",
+				"GetAxisY"
+			],
+			[
+				"normal",
+				"normalized_cursor"
+			],
+			[
+				"fill",
+				"fillPosX"
+			],
+			[
+				"Heal",
+				"HealthFull"
+			],
+			[
+				"Hea",
+				"HealthCurrent"
+			],
+			[
+				"ndc",
+				"ndc2dev"
+			],
+			[
+				"cam",
+				"cam_verts"
+			],
+			[
+				"ca",
+				"CameraToNDC"
+			],
+			[
+				"nd",
+				"ndc_verts"
+			],
+			[
+				"H",
+				"Hcoords"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"P",
+				"Pcam"
+			],
+			[
+				"dev",
+				"dev_verts"
+			],
+			[
+				"ob",
+				"obj2dev"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"rot",
+				"rot_rate"
+			],
+			[
+				"FL",
+				"FALSE"
+			],
+			[
+				"qu",
+				"quat_rot"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 1127 files for \"get_fixedDeltaTime\" (case sensitive)\n\n0 matches across 0 files\n\n\nSearching 1127 files for \"GetCharacterInfoSize\" (case sensitive)\n\nC:\\Users\\Jeongmun Ji\\Desktop\\Repo\\Assets\\Scripts\\9_Plugin_Managerment\\SocialManager.cs:\n  239  	{\n  240  		int unlocked = 0;\n  241: 		for ( int i = 0 ; i < GameInfo.instance.GetCharacterInfoSize() ; i++ )\n  242  		{ \n  243  			if ( false == UserInfo.instance.IsCharacterLocked(i) )\n\nC:\\Users\\Jeongmun Ji\\Desktop\\Repo\\Assets\\Scripts\\DataStructure\\GameInfo.cs:\n   42  	}\n   43  \n   44: 	public int GetCharacterInfoSize()\n   45  	{\n   46  		return this.characterInformationList.Count;\n\nC:\\Users\\Jeongmun Ji\\Desktop\\Repo\\Assets\\Scripts\\DataStructure\\MissionSaveInfo.cs:\n  237  	{\n  238  		// this.missionList = new List<LockStatus>();\n  239: 		for ( int i = 0 ; i < this.missionList.Length ; i++ )//GameInfo.instance.GetCharacterInfoSize() ; i++ )\n  240  		{\n  241  			this.missionList[i].Initialize(i);\n\nC:\\Users\\Jeongmun Ji\\Desktop\\Repo\\Assets\\Scripts\\DataStructure\\UserInfoEntity.cs:\n  367  \n  368  		this.characterStatusList = new List<LockStatus>();\n  369: 		for ( int i = 0 ; i < GameInfo.instance.GetCharacterInfoSize() ; i++ )\n  370  		{\n  371  			this.characterStatusList.Add(LockStatus.LOCKED);\n\n4 matches across 4 files\n\n\nSearching 1127 files for \"System.Reflection.Emit\" (case sensitive)\n\nC:\\Users\\Jeongmun Ji\\Desktop\\Repo\\Assets\\Plugins\\JsonDotNet\\Source\\Utilities\\DynamicReflectionDelegateFactory.cs:\n   30  using System.Linq;\n   31  using System.Reflection;\n   32: using System.Reflection.Emit;\n   33  using System.Text;\n   34  using System.Globalization;\n\nC:\\Users\\Jeongmun Ji\\Desktop\\Repo\\Assets\\Plugins\\JsonDotNet\\Source\\Utilities\\DynamicWrapper.cs:\n    6  using System.Linq;\n    7  using System.Reflection;\n    8: using System.Reflection.Emit;\n    9  using System.Resources;\n   10  using System.Text;\n\nC:\\Users\\Jeongmun Ji\\Desktop\\Repo\\Assets\\Plugins\\JsonDotNet\\Source\\Utilities\\ILGeneratorExtensions.cs:\n   29  using System.Collections.Generic;\n   30  using System.Linq;\n   31: using System.Reflection.Emit;\n   32  using System.Text;\n   33  using System.Reflection;\n\n3 matches across 3 files\n\n\nSearching 5194 files for \"glUseProgram\" (case sensitive)\n\nC:\\Users\\Jeongmun Ji\\Downloads\\cs370\\ogl-OpenGL-tutorial_0015_33\\common\\text2D.cpp:\n   80  \n   81  	// Bind shader\n   82: 	glUseProgram(Text2DShaderID);\n   83  \n   84  	// Bind texture\n\nC:\\Users\\Jeongmun Ji\\Downloads\\cs370\\ogl-OpenGL-tutorial_0015_33\\tutorial02_red_triangle\\tutorial02.cpp:\n   82  \n   83  		// Use our shader\n   84: 		glUseProgram(programID);\n   85  \n   86  		// 1rst attribute buffer : vertices\n\n2 matches across 2 files\n\n\nSearching 5273 files for \"SymbolStart\" (case sensitive)\n\nC:\\Users\\Jeongmun Ji\\Downloads\\Assignment5\\Drivers\\TokenSymbols.inl:\n    1  // This is the list of symbols your application should parse.\n    2: // The index aligns with enum values past SymbolStart:\n    3  \n    4  TOKEN(OpenCurley,                 \"{\"                 )\n\nC:\\Users\\Jeongmun Ji\\Downloads\\Assignment5\\Drivers\\Tokens.inl:\n   11  \n   12  // Every value below this value aligns with the list of symbol names / values provided in TokenSymbols.txt (remember the +1)\n   13: TOKEN(SymbolStart,              \"SymbolStart\"       )\n   14  #include \"TokenSymbols.inl\"\n   15  \n\nC:\\Users\\Jeongmun Ji\\Downloads\\Assignment5\\UserCode\\User1.cpp:\n  178  	//if the identifier was actually a keyword via a hash - map\n  179  	if (outToken.mTokenType == TokenType::Invalid\n  180: 		|| outToken.mTokenType == TokenType::Identifier || outToken.mTokenType == TokenType::SymbolStart)\n  181  	{\n  182  		int id = outToken.mTokenType;\n  ...\n  221  \n  222  	// longer than 2 symbols\n  223: 	DfaState* minus1 = AddState(TokenType::SymbolStart);\n  224: 	DfaState* minus2 = AddState(TokenType::SymbolStart);\n  225: 	DfaState* minus3 = AddState(TokenType::SymbolStart);\n  226: 	DfaState* arrow  = AddState(TokenType::SymbolStart);\n  227  \n  228: 	DfaState* plus1 = AddState(TokenType::SymbolStart);\n  229: 	DfaState* plus2 = AddState(TokenType::SymbolStart);\n  230: 	DfaState* plus3 = AddState(TokenType::SymbolStart);\n  231  \n  232: 	DfaState* bigger1 = AddState(TokenType::SymbolStart);\n  233: 	DfaState* bigger2 = AddState(TokenType::SymbolStart);\n  234: 	DfaState* bigger3 = AddState(TokenType::SymbolStart);\n  235: 	DfaState* bigger4 = AddState(TokenType::SymbolStart);\n  236  \n  237: 	DfaState* less1 = AddState(TokenType::SymbolStart);\n  238: 	DfaState* less2 = AddState(TokenType::SymbolStart);\n  239: 	DfaState* less3 = AddState(TokenType::SymbolStart);\n  240: 	DfaState* less4 = AddState(TokenType::SymbolStart);\n  241  \n  242: 	DfaState* divide1 = AddState(TokenType::SymbolStart);\n  243: 	DfaState* divide2 = AddState(TokenType::SymbolStart);\n  244  \n  245: 	DfaState* hook1 = AddState(TokenType::SymbolStart);\n  246: 	DfaState* hook2 = AddState(TokenType::SymbolStart);\n  247: 	DfaState* hook3 = AddState(TokenType::SymbolStart);\n  248  \n  249: 	DfaState* six1 = AddState(TokenType::SymbolStart);\n  250: 	DfaState* six2 = AddState(TokenType::SymbolStart);\n  251  \n  252: 	DfaState* multi1 = AddState(TokenType::SymbolStart);\n  253: 	DfaState* multi2 = AddState(TokenType::SymbolStart);\n  254  \n  255: 	DfaState* percent1 = AddState(TokenType::SymbolStart);\n  256: 	DfaState* percent2 = AddState(TokenType::SymbolStart);\n  257  \n  258: 	DfaState* or1 = AddState(TokenType::SymbolStart);\n  259: 	DfaState* or2 = AddState(TokenType::SymbolStart);\n  260: 	DfaState* or3 = AddState(TokenType::SymbolStart);\n  261  \n  262: 	DfaState* colon1 = AddState(TokenType::SymbolStart);\n  263: 	DfaState* colon2 = AddState(TokenType::SymbolStart);\n  264  \n  265: 	DfaState* equal1 = AddState(TokenType::SymbolStart);\n  266: 	DfaState* equal2 = AddState(TokenType::SymbolStart);\n  267  	AddEdge(root,   equal1, '=');\n  268  	AddEdge(equal1, equal2, '=');\n  269  \n  270: 	DfaState* ex1 = AddState(TokenType::SymbolStart);\n  271: 	DfaState* ex2 = AddState(TokenType::SymbolStart);\n  272  	AddEdge(root, ex1, '!');\n  273  	AddEdge(ex1, ex2, '=');\n  ...\n  426  \n  427  	// Add predefined identifiers, refers to \n  428: 	for (int i = TokenType::SymbolStart; i < TokenType::EnumCount; i++)\n  429  	{\n  430  		// TokenType::Function\n\n40 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 6253,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/CS380/Project2/Pathfinding/Source/movement.cpp",
+			"settings":
+			{
+				"buffer_size": 19906,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/CS380/Project2/Pathfinding/Source/movement.h",
+			"settings":
+			{
+				"buffer_size": 4412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jeongmun Ji/Desktop/CS381/AI_CS381/AstarImage/driver.cpp",
+			"settings":
+			{
+				"buffer_size": 30523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Jeongmun Ji/Desktop/CS381/AI_CS381/AstarImage/graph.h",
+			"settings":
+			{
+				"buffer_size": 3155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/CS380/Project2/Pathfinding/Source/agent.cpp",
+			"settings":
+			{
+				"buffer_size": 7164,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/CS380/Project2/Pathfinding/Source/terrain.cpp",
+			"settings":
+			{
+				"buffer_size": 12040,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jeongmun Ji/Desktop/we/11PK/data/정보.xml",
+		"/C/Users/Jeongmun Ji/Desktop/GM450/Assignment2/Assignment2/UserCode/User2.cpp",
+		"/C/CS380/Project3/Pathfinding/Source/terrain.h",
+		"/C/CS380/Project3/Pathfinding/Source/movement.h",
+		"/C/CS380/Project3/Pathfinding/Source/terrain.cpp",
+		"/C/CS380/Project3/Pathfinding/Source/movement.cpp",
+		"/C/CS380/Project3/Pathfinding/Source/agent.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/Assignment5/UserCode/User1.cpp",
+		"/C/Users/Jeongmun Ji/Desktop/MYSVN/Jeongmun[Insomnia_Internship]/Main.cpp",
+		"/C/Users/Jeongmun Ji/Desktop/MYSVN/Jeongmun[Insomnia_Internship]/Readme_Jeongmun.txt",
+		"/C/Users/Jeongmun Ji/Desktop/MYSVN/Jeongmun[Insomnia_Internship]/MemoryManager.cpp",
+		"/C/Users/Jeongmun Ji/Desktop/MYSVN/Jeongmun[Insomnia_Internship]/GeneralQuestions.txt",
+		"/C/Users/Jeongmun Ji/Downloads/Assignment5/Drivers/TokenSymbols.inl",
+		"/C/Users/Jeongmun Ji/Downloads/Assignment5/Drivers/TokenKeywords.inl",
+		"/C/Users/Jeongmun Ji/Downloads/Assignment5/Drivers/Tokens.inl",
+		"/C/Users/Jeongmun Ji/Downloads/Assignment5/Drivers/Driver1.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/Assignment5/UserCode/User5.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/Assignment5/UserCode/User3.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/Assignment5/UserCode/User4.cpp",
+		"/C/Users/Jeongmun Ji/Desktop/MYSVN/Jeongmun[Insomnia_Internship]/MemoryManager.h",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/halftone_test",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/TextureFragmentShader.cs",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/SimpleVertexShader.vertexshader",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/TransformVertexShader.vertexshader",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/tutorial02_red_triangle/tutorial02.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ALLHERE/Framework/src/GaussianFilter.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/Bloom.frag",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/Gaussian.frag",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/Decay.vert",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/SimpleFragmentShader.fragmentshader",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/TextureFragmentShader.fragmentshader",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/Concolution.frag",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/새 폴더/370_ImageProcessing_GL/solution/Invert.frag",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/shader.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/shader.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/texture.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/texture.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/vboindexer.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/controls.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/vboindexer.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/controls.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/objloader.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/objloader.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/quaternion_utils.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/quaternion_utils.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/tutorial02_red_triangle/SimpleVertexShader.vertexshader",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/tutorial02_red_triangle/SimpleFragmentShader.fragmentshader",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/text2D.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/text2D.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/tangentspace.hpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ogl-OpenGL-tutorial_0015_33/common/tangentspace.cpp",
+		"/C/Users/Jeongmun Ji/Desktop/Repo/Assets/Scripts/DataStructure/GameInfo.cs",
+		"/C/Users/Jeongmun Ji/Desktop/Repo/Assets/Scripts/DataStructure/UserInfoEntity.cs",
+		"/C/Users/Jeongmun Ji/Desktop/Repo/Assets/Plugins/MiniJSON.cs",
+		"/C/Users/Jeongmun Ji/Desktop/Repo/Assets/UnityLitJson/JsonData.cs",
+		"/C/Users/Jeongmun Ji/Desktop/Repo/Assets/UnityLitJson/JsonReader.cs",
+		"/C/Users/Jeongmun Ji/Desktop/Repo/Assets/UnityLitJson-Example/JsonExample.cs",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/ALLHERE/Framework/src/IFXFrame.cpp",
+		"/C/Users/Jeongmun Ji/Downloads/cs370/glut-3.6/glut-3.6/README",
+		"/C/GAM400_Mocha/Prototype/Assets/Scripts/2.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/DiarySystem/RelationshipManager.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/DialogueManager.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/DataTracking.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca1.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca2.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/DialogueParser.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/DialogueTransition.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Manager/MainGameManager.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/FireworkAnise.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Brie6.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Anise4.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Anise5(Bianca).txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Anise6(Bianca).txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Anise7.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/TextureAnimation.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/TutorialFlowIdea.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/DiarySystem/DiaryManager.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/TouchInputScript.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/UI/ButtonClickManager.cs.meta",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Brie2.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Manager/CheatManager.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/BeachAnise.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Anise3.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca3.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/SaveLoadSystem.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/FireworkBianca.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/FireworkBrie.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/BeachBrie.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/BeachBianca.txt",
+		"/C/Users/Jeongmun Ji/AppData/LocalLow/TeamMocha/CoffeeShop/logs/41220171439.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Make Order/ShotGlassLogic.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Make Order/CoffeeMachineButtonLogic.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Scene/NightCalculateScene.cs",
+		"/C/Users/Jeongmun Ji/AppData/LocalLow/Team Mocha/Latte Love/logs/41820171350.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/BrieDialogue.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/AniseDialogue.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/BiancaDialogue.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/DialogueOption.cs.meta",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/BirthdayBrie.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/BirthdayBianca.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/BirthdayAnise.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/newEnding.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/BadEnding.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/CafeTutorialDialogue.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/BrieAfterTutorial.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Brie3Closing.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca4.txt",
+		"/C/GAM400_Mocha/Prototype/Assets/Resources/Dialogues/EventDialogue.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Enums&Defines.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/GoodEnding.txt",
+		"/C/Users/Jeongmun Ji/AppData/LocalLow/Team Mocha/Latte Love/logs/4182017937.txt",
+		"/C/Users/Jeongmun Ji/AppData/LocalLow/TeamMocha/CoffeeShop/logs/4152017059.txt",
+		"/C/Users/Jeongmun Ji/AppData/LocalLow/TeamMocha/CoffeeShop/logs/41520171142.txt",
+		"/C/Users/Jeongmun Ji/AppData/LocalLow/TeamMocha/CoffeeShop/logs/41620171357.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Pause/PauseMenu.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Brie1.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca5.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca6-1.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Manager/SceneChangeManager.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Upgrade/UpgradeManager.cs",
+		"/C/GAM400_MOCHA/Prototype/Assets/Scripts/Dialogue/credit.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca4-1Option1.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca4-1Option2.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Bianca6.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Brie3.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Brie4.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Brie5.txt",
+		"/C/GAM400_MOCHA/Prototype/Assets/Resources/Dialogues/Anise1.txt"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"precomputed",
+			"wholeGrid",
+			"operator",
+			"operator<",
+			"operator",
+			"given",
+			"astarnode",
+			"m_waypointList",
+			"offsetX",
+			"	static const int offsetX[] = { 0, 1, 1, 1, 0, -1, -1, -1 };\n",
+			"offsetX",
+			"bestcost",
+			"wholeGrid",
+			"astarnode",
+			"open",
+			"pop",
+			"vector",
+			"Location",
+			"tuple",
+			"map",
+			"unordered_map",
+			"queue",
+			"precomputed",
+			"closedList",
+			"openList",
+			"tuple",
+			"map",
+			"queue",
+			"tuple",
+			"unordered_map",
+			"WaypointList",
+			"unordered_map",
+			"SymbolStart",
+			"keywordsInMap",
+			"tmpString",
+			"ttt",
+			"mCallback",
+			"sigma",
+			"sum",
+			"flag",
+			"shaderflag",
+			"shaderFlag",
+			"shaderflag",
+			"color",
+			"normalMatrix",
+			"projModelViewMatrix",
+			"Matrices",
+			"uniform",
+			"get_pixel",
+			"gl_FragCoord",
+			"gl_TexCoord",
+			"gl_FragColor",
+			"Texture0",
+			"image",
+			"texture2D",
+			"image",
+			"0",
+			"textureColor",
+			"LoadShaders",
+			"glUseProgram",
+			"LoadShaders",
+			"programID",
+			"ID_ItemNearest",
+			"OnNearestClicked",
+			"methodToScale",
+			"slider_var1",
+			"OnSourceImagePanelPaint",
+			"object",
+			"<object>",
+			"Convert",
+			"System.Reflection.Emit",
+			"InitializeSaveFile",
+			"SaveFile",
+			"LoadStageParameters",
+			"GetCharacterInfoSize",
+			"get_fixedDeltaTime",
+			"V_s0s1s2",
+			"= 0.f",
+			" = 0.",
+			"U_s0s1s2",
+			"U_s0s1s3",
+			"V_s0s1s3",
+			"V_s0_s1",
+			"U_s0_s1",
+			"Ws1s2s3",
+			"V_s1s2s3",
+			"U_s1s2s3",
+			"Ws0s2s3",
+			"Vs0s3",
+			"Vs2s3",
+			"Vs0s2",
+			"Us0s2",
+			"V_s1_s2",
+			"Us1s2",
+			"Us1s3",
+			"Vs1s3",
+			"Us2s3",
+			"Us0s3",
+			"Vs0s2s3",
+			"Us0s2s3",
+			"Ws0s1s3",
+			"Ws0s1s2",
+			"Vs0s1",
+			"Vs1s2",
+			"Us0s1",
+			"SetIntroBackground",
+			"indexScreen",
+			"aniseRelationshipPoints",
+			"whippedUpgradeNum",
+			"Play_Menu_Popup",
+			"Play",
+			"exitDialogue",
+			"run",
+			"exitDialogue",
+			"NPCName",
+			"set_option_button",
+			"npc_name",
+			"SaveDatas",
+			"Intro",
+			"SetIntroBackground",
+			"SafeSetBackgroundDay",
+			"SetIntroBackground",
+			"skippingCheat",
+			"skippingCheat\nskippingCheat",
+			"skippingCheat",
+			"exitDialogue",
+			"Set_Switch_InGame",
+			"SaveLoadSystem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"???:",
+			"Brie:",
+			"Anise:",
+			"CAFE_DAY",
+			"\n[OPEN:BACKTOCAFE]\n[OPEN:BACKTOCAFE]",
+			"\n[OPEN:BACKTOCAFE]",
+			"Brie:",
+			"Bianca:",
+			"Anise:",
+			"BIANCA:",
+			"ANISE:",
+			"<PLAYER NAME>:",
+			"BRIE:",
+			"[Cafe_Day]",
+			"SaveLoadSystem.RealLoadSuccess"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 6253,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										331,
+										351
+									],
+									[
+										553,
+										573
+									],
+									[
+										870,
+										890
+									],
+									[
+										1157,
+										1177
+									],
+									[
+										1539,
+										1561
+									],
+									[
+										1792,
+										1814
+									],
+									[
+										2057,
+										2079
+									],
+									[
+										2348,
+										2360
+									],
+									[
+										2560,
+										2572
+									],
+									[
+										2910,
+										2921
+									],
+									[
+										3211,
+										3222
+									],
+									[
+										3238,
+										3249
+									],
+									[
+										3582,
+										3593
+									],
+									[
+										3738,
+										3749
+									],
+									[
+										3799,
+										3810
+									],
+									[
+										3860,
+										3871
+									],
+									[
+										3921,
+										3932
+									],
+									[
+										3989,
+										4000
+									],
+									[
+										4049,
+										4060
+									],
+									[
+										4109,
+										4120
+									],
+									[
+										4179,
+										4190
+									],
+									[
+										4241,
+										4252
+									],
+									[
+										4303,
+										4314
+									],
+									[
+										4365,
+										4376
+									],
+									[
+										4433,
+										4444
+									],
+									[
+										4493,
+										4504
+									],
+									[
+										4553,
+										4564
+									],
+									[
+										4613,
+										4624
+									],
+									[
+										4683,
+										4694
+									],
+									[
+										4745,
+										4756
+									],
+									[
+										4813,
+										4824
+									],
+									[
+										4873,
+										4884
+									],
+									[
+										4933,
+										4944
+									],
+									[
+										5000,
+										5011
+									],
+									[
+										5059,
+										5070
+									],
+									[
+										5128,
+										5139
+									],
+									[
+										5189,
+										5200
+									],
+									[
+										5260,
+										5271
+									],
+									[
+										5323,
+										5334
+									],
+									[
+										5389,
+										5400
+									],
+									[
+										5447,
+										5458
+									],
+									[
+										5505,
+										5516
+									],
+									[
+										5574,
+										5585
+									],
+									[
+										5635,
+										5646
+									],
+									[
+										5704,
+										5715
+									],
+									[
+										5765,
+										5776
+									],
+									[
+										5907,
+										5918
+									],
+									[
+										5965,
+										5976
+									],
+									[
+										6140,
+										6151
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								3242,
+								3242
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 5,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 469.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/CS380/Project2/Pathfinding/Source/movement.cpp",
+					"settings":
+					{
+						"buffer_size": 19906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13330,
+								13330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11356.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/CS380/Project2/Pathfinding/Source/movement.h",
+					"settings":
+					{
+						"buffer_size": 4412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1105,
+								1105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Jeongmun Ji/Desktop/CS381/AI_CS381/AstarImage/driver.cpp",
+					"settings":
+					{
+						"buffer_size": 30523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4663,
+								4663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2156.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Jeongmun Ji/Desktop/CS381/AI_CS381/AstarImage/graph.h",
+					"settings":
+					{
+						"buffer_size": 3155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1777,
+								1777
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 467.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/CS380/Project2/Pathfinding/Source/agent.cpp",
+					"settings":
+					{
+						"buffer_size": 7164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/CS380/Project2/Pathfinding/Source/terrain.cpp",
+					"settings":
+					{
+						"buffer_size": 12040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1382,
+								1382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gauss",
+				"ALLHERE/Framework/src/GaussianFilter.cpp"
+			],
+			[
+				"json",
+				"Assets/UnityLitJson-Example/JsonExample.cs"
+			],
+			[
+				"jsonre",
+				"Assets/UnityLitJson/JsonReader.cs"
+			],
+			[
+				"jsonda",
+				"Assets/UnityLitJson/JsonData.cs"
+			],
+			[
+				"mini",
+				"Plugins/MiniJSON.cs"
+			],
+			[
+				"userinfo",
+				"Scripts/DataStructure/UserInfoEntity.cs"
+			],
+			[
+				"savel",
+				"Scripts/SaveLoadSystem.cs"
+			],
+			[
+				"transi",
+				"Scripts/Dialogue/DialogueTransition.cs"
+			],
+			[
+				"diar",
+				"Scripts/DiarySystem/DiaryManager.cs"
+			],
+			[
+				"rela",
+				"Scripts/DiarySystem/RelationshipManager.cs"
+			],
+			[
+				"maingam",
+				"Scripts/Manager/MainGameManager.cs"
+			],
+			[
+				"relation",
+				"Scripts/DiarySystem/RelationshipManager.cs"
+			],
+			[
+				"tra",
+				"Scripts/Dialogue/DialogueTransition.cs"
+			],
+			[
+				"par",
+				"Scripts/Dialogue/DialogueParser.cs"
+			],
+			[
+				"trn",
+				"Scripts/Dialogue/DialogueTransition.cs"
+			],
+			[
+				"dialman",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"anise6",
+				"Dialogues/Anise6(Bianca).txt"
+			],
+			[
+				"anise5",
+				"Dialogues/Anise5(Bianca).txt"
+			],
+			[
+				"anise4",
+				"Dialogues/Anise4.txt"
+			],
+			[
+				"save",
+				"Scripts/SaveLoadSystem.cs"
+			],
+			[
+				"tut",
+				"Dialogues/TutorialFlowIdea.txt"
+			],
+			[
+				"dialm",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"dmana",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"bia",
+				"Dialogues/Bianca2.txt"
+			],
+			[
+				"bian",
+				"Dialogues/Bianca1.txt"
+			],
+			[
+				"bianca",
+				"Scripts/UI/ButtonClickManager.cs.meta"
+			],
+			[
+				"anise1",
+				"Dialogues/Anise1.txt"
+			],
+			[
+				"dialmna",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"parse",
+				"Scripts/Dialogue/DialogueParser.cs"
+			],
+			[
+				"texani",
+				"Scripts/Dialogue/TextureAnimation.cs"
+			],
+			[
+				"touchin",
+				"Scripts/TouchInputScript.cs"
+			],
+			[
+				"dia",
+				"Scripts/Dialogue/DialogueTransition.cs"
+			],
+			[
+				"cheatm",
+				"Scripts/Manager/CheatManager.cs"
+			],
+			[
+				"tuto",
+				"Dialogues/TutorialFlowIdea.txt"
+			],
+			[
+				"tex",
+				"Scripts/Dialogue/TextureAnimation.cs"
+			],
+			[
+				"brie2",
+				"Dialogues/Brie2.txt"
+			],
+			[
+				"brie3",
+				"Dialogues/Brie3.txt"
+			],
+			[
+				"beacb",
+				"Dialogues/BeachBianca.txt"
+			],
+			[
+				"beacha",
+				"Dialogues/BeachAnise.txt"
+			],
+			[
+				"beach",
+				"Dialogues/BeachBrie.txt"
+			],
+			[
+				"firebr",
+				"Dialogues/FireworkBrie.txt"
+			],
+			[
+				"firewob",
+				"Dialogues/FireworkBianca.txt"
+			],
+			[
+				"fire",
+				"Dialogues/FireworkAnise.txt"
+			],
+			[
+				"datara",
+				"Scripts/DataTracking.cs"
+			],
+			[
+				"transit",
+				"Scripts/Dialogue/DialogueTransition.cs"
+			],
+			[
+				"bried",
+				"Scripts/Dialogue/BrieDialogue.cs"
+			],
+			[
+				"biancad",
+				"Scripts/Dialogue/BiancaDialogue.cs"
+			],
+			[
+				"savelo",
+				"Scripts/SaveLoadSystem.cs"
+			],
+			[
+				"dmanager",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"dialgom",
+				"Scripts/Dialogue/DialogueOption.cs.meta"
+			],
+			[
+				"firewo",
+				"Dialogues/FireworkBianca.txt"
+			],
+			[
+				"birth",
+				"Dialogues/BirthdayBrie.txt"
+			],
+			[
+				"badd",
+				"Dialogues/BadEnding.txt"
+			],
+			[
+				"newei",
+				"Dialogues/newEnding.txt"
+			],
+			[
+				"tutor",
+				"Dialogues/TutorialFlowIdea.txt"
+			],
+			[
+				"dialoguemn",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"texan",
+				"Scripts/Dialogue/TextureAnimation.cs"
+			],
+			[
+				"newen",
+				"Dialogues/newEnding.txt"
+			],
+			[
+				"tutorialdi",
+				"Scripts/Dialogue/CafeTutorialDialogue.cs"
+			],
+			[
+				"bred",
+				"Scripts/Dialogue/BrieDialogue.cs"
+			],
+			[
+				"anise",
+				"Dialogues/Anise3.txt"
+			],
+			[
+				"maingame",
+				"Scripts/Manager/MainGameManager.cs"
+			],
+			[
+				"pause",
+				"Scripts/Pause/PauseMenu.cs"
+			],
+			[
+				"transition",
+				"Scripts/Dialogue/DialogueTransition.cs"
+			],
+			[
+				"dial",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"brie1",
+				"Dialogues/Brie1.txt"
+			],
+			[
+				"upgama",
+				"Scripts/Upgrade/UpgradeManager.cs"
+			],
+			[
+				"texa",
+				"Scripts/Dialogue/TextureAnimation.cs"
+			],
+			[
+				"cred",
+				"Scripts/Dialogue/credit.txt"
+			],
+			[
+				"biand",
+				"Scripts/Dialogue/BiancaDialogue.cs"
+			],
+			[
+				"beachbian",
+				"Dialogues/BeachBianca.txt"
+			],
+			[
+				"diamanager",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"dimana",
+				"Scripts/DiarySystem/DiaryManager.cs"
+			],
+			[
+				"trnsition",
+				"Scripts/Dialogue/DialogueTransition.cs"
+			],
+			[
+				"beac",
+				"Dialogues/BeachAnise.txt"
+			],
+			[
+				"bianca6",
+				"Dialogues/Bianca6-1.txt"
+			],
+			[
+				"bianca5",
+				"Dialogues/Bianca5.txt"
+			],
+			[
+				"bianca4",
+				"Dialogues/Bianca4-1Option2.txt"
+			],
+			[
+				"bianca3",
+				"Dialogues/Bianca3.txt"
+			],
+			[
+				"bianca2",
+				"Dialogues/Bianca2.txt"
+			],
+			[
+				"brie6",
+				"Dialogues/Brie6.txt"
+			],
+			[
+				"brie5",
+				"Dialogues/Brie5.txt"
+			],
+			[
+				"brie4",
+				"Dialogues/Brie4.txt"
+			],
+			[
+				"bri",
+				"Dialogues/Brie2.txt"
+			],
+			[
+				"anise7-1",
+				"Dialogues/Anise7-1.txt"
+			],
+			[
+				"anise7",
+				"Dialogues/Anise7.txt"
+			],
+			[
+				"anise3",
+				"Dialogues/Anise3.txt"
+			],
+			[
+				"anise2",
+				"Dialogues/Anise2.txt"
+			],
+			[
+				"texu",
+				"Scripts/Dialogue/TextureAnimation.cs"
+			],
+			[
+				"birthbr",
+				"Dialogues/BirthdayBrie.txt"
+			],
+			[
+				"beachbr",
+				"Dialogues/BeachBrie.txt"
+			],
+			[
+				"anised",
+				"Scripts/Dialogue/AniseDialogue.cs"
+			],
+			[
+				"anis3",
+				"Dialogues/Anise3.txt"
+			],
+			[
+				"credi",
+				"Scripts/Dialogue/credit.txt"
+			],
+			[
+				"fireani",
+				"Dialogues/FireworkAnise.txt"
+			],
+			[
+				"bea",
+				"Dialogues/BeachAnise.txt"
+			],
+			[
+				"upgrades",
+				"Scripts/Upgrade/UpgradeStatus.cs"
+			],
+			[
+				"upgrm",
+				"Scripts/Upgrade/UpgradeManager.cs"
+			],
+			[
+				"firw",
+				"Dialogues/FireworkBianca.txt"
+			],
+			[
+				"beachb",
+				"Dialogues/BeachBianca.txt"
+			],
+			[
+				"birthda",
+				"Dialogues/BirthdayBrie.txt"
+			],
+			[
+				"firwob",
+				"Dialogues/FireworkBrie.txt"
+			],
+			[
+				"upgra",
+				"Scripts/Upgrade/UpgradeManager.cs"
+			],
+			[
+				"upgradm",
+				"Scripts/Upgrade/UpgradeManager.cs"
+			],
+			[
+				"upgrade",
+				"Scripts/Upgrade/UpgradeLevel.cs"
+			],
+			[
+				"beachani",
+				"Dialogues/BeachAnise.txt"
+			],
+			[
+				"bebianca",
+				"Dialogues/BeachBianca.txt"
+			],
+			[
+				"cafet",
+				"Scripts/Dialogue/CafeTutorialDialogue.cs"
+			],
+			[
+				"night",
+				"Scripts/Scene/NightCalculateScene.cs"
+			],
+			[
+				"enum",
+				"Scripts/Enums&Defines.cs"
+			],
+			[
+				"ani",
+				"Dialogues/Anise2.txt"
+			],
+			[
+				"npcdia",
+				"Scripts/Dialogue/NPCDialogue.cs"
+			],
+			[
+				"bianca1",
+				"Dialogues/Bianca1.txt"
+			],
+			[
+				"anise7-",
+				"Dialogues/Anise7-1.txt"
+			],
+			[
+				"ani2",
+				"Dialogues/Anise2.txt"
+			],
+			[
+				"bri2",
+				"Dialogues/Brie2.txt"
+			],
+			[
+				"biac6",
+				"Dialogues/Bianca6-1.txt"
+			],
+			[
+				"bianca4-1",
+				"Dialogues/Bianca4-1Option1.txt"
+			],
+			[
+				"brieda",
+				"Scripts/Dialogue/BrieDialogue.cs"
+			],
+			[
+				"dop",
+				"Scripts/Dialogue/DialogueOption.cs"
+			],
+			[
+				"node",
+				"Scripts/Dialogue/DialogueNode.cs"
+			],
+			[
+				"diamn",
+				"Scripts/Dialogue/DialogueManager.cs"
+			],
+			[
+				"data",
+				"Scripts/DataTracking.cs"
+			],
+			[
+				"npcd",
+				"Scripts/Dialogue/NPCDialogue.cs"
+			],
+			[
+				"pitchl",
+				"Scripts/Make Order/PitcherLogic.cs"
+			],
+			[
+				"datatr",
+				"Scripts/DataTracking.cs"
+			],
+			[
+				"brid",
+				"Scripts/Dialogue/BrieDialogue.cs"
+			],
+			[
+				"anisd",
+				"Scripts/Dialogue/AniseDialogue.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}

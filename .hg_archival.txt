@@ -1,0 +1,6 @@
+repo: 97c371272f240ac9812aa8759987b321a8fcc771
+node: cf55625d5c1fe7ea69cdcd339a741ae4dce0aaae
+branch: default
+latesttag: 시작속
+latesttagdistance: 422
+changessincelatesttag: 514

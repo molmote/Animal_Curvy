@@ -1,0 +1,704 @@
+[
+  {
+    "KEY":0,
+    "nameEng":"TWEET",
+    "nameKor":"짹짹이",
+    "nameFre":"PIUPIU",
+    "namePor":"PIUPIU",
+    "nameSpa":"PÍOPÍO",
+    "nameBra":"PIUPIU"
+  },
+  {
+    "KEY":1,
+    "nameEng":"DISLIKE PENGUIN",
+    "nameKor":"싫어요 펭귄",
+    "nameFre":"PINGOUIN ANTIPATHIQUE",
+    "namePor":"PINGUIM ANTIPÁTICO",
+    "nameSpa":"PINGÜINO AVERSIÓN",
+    "nameBra":"PINGUIM ANTIPÁTICO"
+  },
+  {
+    "KEY":2,
+    "nameEng":"RABBIT",
+    "nameKor":"토끼",
+    "nameFre":"COELHO",
+    "namePor":"COELHO",
+    "nameSpa":"CONEJO",
+    "nameBra":"COELHO"
+  },
+  {
+    "KEY":3,
+    "nameEng":"BLACK CAT",
+    "nameKor":"검은 고양이",
+    "nameFre":"CHAT NOIR",
+    "namePor":"GATO PRETO",
+    "nameSpa":"GATO NEGRO",
+    "nameBra":"GATO PRETO"
+  },
+  {
+    "KEY":4,
+    "nameEng":"PERSIAN",
+    "nameKor":"페르시안",
+    "nameFre":"PERSAN",
+    "namePor":"PERSA",
+    "nameSpa":"PERSA",
+    "nameBra":"PERSA"
+  },
+  {
+    "KEY":5,
+    "nameEng":"LUCKY CAT",
+    "nameKor":"행운의 고양이",
+    "nameFre":"CHAT CHANCEUX",
+    "namePor":"GATO SORTUDO",
+    "nameSpa":"GATO SUERTUDO",
+    "nameBra":"GATO SORTUDO"
+  },
+  {
+    "KEY":6,
+    "nameEng":"FOX",
+    "nameKor":"여우",
+    "nameFre":"RENARD",
+    "namePor":"RAPOSA",
+    "nameSpa":"ZORRO",
+    "nameBra":"RAPOSA"
+  },
+  {
+    "KEY":7,
+    "nameEng":"DR. D-FOX",
+    "nameKor":"의사 여우",
+    "nameFre":"DR. D-RENARD",
+    "namePor":"DR. D-RAPOSA",
+    "nameSpa":"DR. D-ZORRO",
+    "nameBra":"DR. D-RAPOSA"
+  },
+  {
+    "KEY":8,
+    "nameEng":"SLEEPY FOX",
+    "nameKor":"졸린 여우",
+    "nameFre":"RENARD ENDORMI",
+    "namePor":"RAPOSA SONOLENTA",
+    "nameSpa":"ZORRO SOÑOLIENTO",
+    "nameBra":"RAPOSA SONOLENTA"
+  },
+  {
+    "KEY":9,
+    "nameEng":"MOUSE",
+    "nameKor":"쥐",
+    "nameFre":"SOURIS",
+    "namePor":"RATO",
+    "nameSpa":"RATÓN",
+    "nameBra":"RATO"
+  },
+  {
+    "KEY":10,
+    "nameEng":"HAMSTERy",
+    "nameKor":"햄스터",
+    "nameFre":"HAMSTER",
+    "namePor":"HAMSTER",
+    "nameSpa":"HAMSTER",
+    "nameBra":"HAMSTER"
+  },
+  {
+    "KEY":11,
+    "nameEng":"HAMSTERY",
+    "nameKor":"햄스터리",
+    "nameFre":"HAMSTERY",
+    "namePor":"HAMSTERY",
+    "nameSpa":"HAMSTERY",
+    "nameBra":"HAMSTERY"
+  },
+  {
+    "KEY":12,
+    "nameEng":"BEAGLE",
+    "nameKor":"비글",
+    "nameFre":"BEAGLE",
+    "namePor":"BEAGLE",
+    "nameSpa":"BEAGLE",
+    "nameBra":"BEAGLE"
+  },
+  {
+    "KEY":13,
+    "nameEng":"PUG",
+    "nameKor":"퍼그",
+    "nameFre":"PUG",
+    "namePor":"PUG",
+    "nameSpa":"PUG",
+    "nameBra":"PUG"
+  },
+  {
+    "KEY":14,
+    "nameEng":"HUSKY",
+    "nameKor":"허스키",
+    "nameFre":"HUSKY",
+    "namePor":"HUSKY",
+    "nameSpa":"HUSKY",
+    "nameBra":"HUSKY"
+  },
+  {
+    "KEY":15,
+    "nameEng":"RACCOON",
+    "nameKor":"너구리",
+    "nameFre":"RATON LAVEUR",
+    "namePor":"GUAXINIM",
+    "nameSpa":"MAPACHE",
+    "nameBra":"GUAXINIM"
+  },
+  {
+    "KEY":16,
+    "nameEng":"CAKE RACCOON",
+    "nameKor":"케이크 너구리",
+    "nameFre":"GUAXINIM GULOSO",
+    "namePor":"GUAXINIM GULOSO",
+    "nameSpa":"MAPACHE TORTA",
+    "nameBra":"GUAXINIM GULOSO"
+  },
+  {
+    "KEY":17,
+    "nameEng":"BEAR",
+    "nameKor":"곰",
+    "nameFre":"OURS",
+    "namePor":"URSO",
+    "nameSpa":"OSO",
+    "nameBra":"URSO"
+  },
+  {
+    "KEY":18,
+    "nameEng":"PANDA",
+    "nameKor":"판다",
+    "nameFre":"PANDA",
+    "namePor":"PANDA",
+    "nameSpa":"PANDA",
+    "nameBra":"PANDA"
+  },
+  {
+    "KEY":19,
+    "nameEng":"HIP BEAR",
+    "nameKor":"힙합 곰",
+    "nameFre":"URSO HIPSTER",
+    "namePor":"URSO HIPSTER",
+    "nameSpa":"OSO HIPSTER",
+    "nameBra":"URSO HIPSTER"
+  },
+  {
+    "KEY":20,
+    "nameEng":"PENGUIN",
+    "nameKor":"펭귄",
+    "nameFre":"PINGOUIN",
+    "namePor":"PINGUIM",
+    "nameSpa":"PINGÜINO",
+    "nameBra":"PINGUIM"
+  },
+  {
+    "KEY":21,
+    "nameEng":"PENGBO",
+    "nameKor":"펭보",
+    "nameFre":"PINGRAMBO",
+    "namePor":"PINGRAMBO",
+    "nameSpa":"PINGRAMBO",
+    "nameBra":"PINGRAMBO"
+  },
+  {
+    "KEY":22,
+    "nameEng":"SHEEP",
+    "nameKor":"양",
+    "nameFre":"OVELHA",
+    "namePor":"OVELHA",
+    "nameSpa":"OVEJAS",
+    "nameBra":"OVELHA"
+  },
+  {
+    "KEY":23,
+    "nameEng":"SHADOW SHEEP",
+    "nameKor":"그림자 양",
+    "nameFre":"OVELHA SOMBRIA",
+    "namePor":"OVELHA SOMBRIA",
+    "nameSpa":"OVEJAS SOMBRA",
+    "nameBra":"OVELHA SOMBRIA"
+  },
+  {
+    "KEY":24,
+    "nameEng":"GOAT",
+    "nameKor":"염소",
+    "nameFre":"CABRA",
+    "namePor":"CABRA",
+    "nameSpa":"CABRA",
+    "nameBra":"CABRA"
+  },
+  {
+    "KEY":25,
+    "nameEng":"GOATEEN",
+    "nameKor":"사춘기 염소",
+    "nameFre":"CABRA EMO",
+    "namePor":"CABRA EMO",
+    "nameSpa":"CABRA EMO",
+    "nameBra":"CABRA EMO"
+  },
+  {
+    "KEY":26,
+    "nameEng":"PIG",
+    "nameKor":"돼지",
+    "nameFre":"PORCO",
+    "namePor":"PORCO",
+    "nameSpa":"CERDO",
+    "nameBra":"PORCO"
+  },
+  {
+    "KEY":27,
+    "nameEng":"GOLDEN PIG",
+    "nameKor":"황금돼지",
+    "nameFre":"PORCO DE OURO",
+    "namePor":"PORCO DE OURO",
+    "nameSpa":"CERDO DE ORO",
+    "nameBra":"PORCO DE OURO"
+  },
+  {
+    "KEY":28,
+    "nameEng":"COW",
+    "nameKor":"소",
+    "nameFre":"VACA",
+    "namePor":"VACA",
+    "nameSpa":"VACA",
+    "nameBra":"VACA"
+  },
+  {
+    "KEY":29,
+    "nameEng":"MILK COW",
+    "nameKor":"우유 소",
+    "nameFre":"VACA LEITEIRA",
+    "namePor":"VACA LEITEIRA",
+    "nameSpa":"VACA LECHERA",
+    "nameBra":"VACA LEITEIRA"
+  },
+  {
+    "KEY":30,
+    "nameEng":"RABBIT ANGEL",
+    "nameKor":"천사 토끼",
+    "nameFre":"COELHO ANJO",
+    "namePor":"COELHO ANJO",
+    "nameSpa":"CONEJO ÁNGEL",
+    "nameBra":"COELHO ANJO"
+  },
+  {
+    "KEY":31,
+    "nameEng":"RABBIT IDOL",
+    "nameKor":"아이돌 토끼",
+    "nameFre":"COELHO ÍDOLO",
+    "namePor":"COELHO ÍDOLO",
+    "nameSpa":"CONEJO IDOL",
+    "nameBra":"COELHO ÍDOLO"
+  },
+  {
+    "KEY":32,
+    "nameEng":"RABBIT KEY",
+    "nameKor":"열쇠 토끼",
+    "nameFre":"COELHO CHAVES",
+    "namePor":"COELHO CHAVES",
+    "nameSpa":"CONEJO CLAVE",
+    "nameBra":"COELHO CHAVES"
+  },
+  {
+    "KEY":33,
+    "nameEng":"RABBIT PRINCE",
+    "nameKor":"왕자 토끼",
+    "nameFre":"COELHO PRÍNCIPE",
+    "namePor":"COELHO PRÍNCIPE",
+    "nameSpa":"CONEJO PRÍNCIPE",
+    "nameBra":"COELHO PRÍNCIPE"
+  },
+  {
+    "KEY":34,
+    "nameEng":"RABBIT MAGICIAN",
+    "nameKor":"마법사 토끼",
+    "nameFre":"COELHO MÁGICO",
+    "namePor":"COELHO MÁGICO",
+    "nameSpa":"CONEJO MAGO",
+    "nameBra":"COELHO MÁGICO"
+  },
+  {
+    "KEY":35,
+    "nameEng":"JACKALOPE",
+    "nameKor":"재카로프",
+    "nameFre":"JACKALOP",
+    "namePor":"JACKALOP",
+    "nameSpa":"JACKALOP",
+    "nameBra":"JACKALOP"
+  },
+  {
+    "KEY":36,
+    "nameEng":"MOVIE JACK",
+    "nameKor":"무비 잭",
+    "nameFre":"MOVIE JACK",
+    "namePor":"MOVIE JACK",
+    "nameSpa":"MOVIE JACK",
+    "nameBra":"MOVIE JACK"
+  },
+  {
+    "KEY":37,
+    "nameEng":"ALLIGATOR",
+    "nameKor":"악어",
+    "nameFre":"JACARÉ",
+    "namePor":"JACARÉ",
+    "nameSpa":"COCODRILO",
+    "nameBra":"JACARÉ"
+  },
+  {
+    "KEY":38,
+    "nameEng":"FROG",
+    "nameKor":"개구리",
+    "nameFre":"SAPO",
+    "namePor":"SAPO",
+    "nameSpa":"RANA",
+    "nameBra":"SAPO"
+  },
+  {
+    "KEY":39,
+    "nameEng":"FROGDO",
+    "nameKor":"프로그도",
+    "nameFre":"FROGDO",
+    "namePor":"FROGDO",
+    "nameSpa":"FROGDO",
+    "nameBra":"FROGDO"
+  },
+  {
+    "KEY":40,
+    "nameEng":"SNAKE",
+    "nameKor":"뱀",
+    "nameFre":"COBRA",
+    "namePor":"COBRA",
+    "nameSpa":"SERPIENTE",
+    "nameBra":"COBRA"
+  },
+  {
+    "KEY":41,
+    "nameEng":"SK8TER BOY",
+    "nameKor":"스케이터 뱀",
+    "nameFre":"COBRA SKATER",
+    "namePor":"COBRA SKATER",
+    "nameSpa":"SERPIENTE SKATER",
+    "nameBra":"COBRA SKATER"
+  },
+  {
+    "KEY":42,
+    "nameEng":"CHICK",
+    "nameKor":"삐약이",
+    "nameFre":"PINTINHO",
+    "namePor":"PINTINHO",
+    "nameSpa":"POLLUELO",
+    "nameBra":"PINTINHO"
+  },
+  {
+    "KEY":43,
+    "nameEng":"OWLAW",
+    "nameKor":"올빼미 무법자",
+    "nameFre":"MOCHO-LEI",
+    "namePor":"MOCHO-LEI",
+    "nameSpa":"BÚHO",
+    "nameBra":"MOCHO-LEI"
+  },
+  {
+    "KEY":44,
+    "nameEng":"PEACOCK",
+    "nameKor":"공작",
+    "nameFre":"PAVÃO",
+    "namePor":"PAVÃO",
+    "nameSpa":"PAVO REAL",
+    "nameBra":"PAVÃO"
+  },
+  {
+    "KEY":45,
+    "nameEng":"PIRROT",
+    "nameKor":"해적무새",
+    "nameFre":"PAPA-PIRATA",
+    "namePor":"PAPA-PIRATA",
+    "nameSpa":"PAPIRATA",
+    "nameBra":"PAPA-PIRATA"
+  },
+  {
+    "KEY":46,
+    "nameEng":"ROOSTER",
+    "nameKor":"파워닭",
+    "nameFre":"GALO",
+    "namePor":"GALO",
+    "nameSpa":"GALLO",
+    "nameBra":"GALO"
+  },
+  {
+    "KEY":47,
+    "nameEng":"EAGLE MOM",
+    "nameKor":"독수리 엄마",
+    "nameFre":"ÁGUIA MÃE",
+    "namePor":"ÁGUIA MÃE",
+    "nameSpa":"ÁGUILA MAMÁ",
+    "nameBra":"ÁGUIA MÃE"
+  },
+  {
+    "KEY":48,
+    "nameEng":"MONKEY",
+    "nameKor":"원숭이",
+    "nameFre":"MACACO",
+    "namePor":"MACACO",
+    "nameSpa":"MONO",
+    "nameBra":"MACACO"
+  },
+  {
+    "KEY":49,
+    "nameEng":"WOLF",
+    "nameKor":"늑대",
+    "nameFre":"LOBO",
+    "namePor":"LOBO",
+    "nameSpa":"LOBO",
+    "nameBra":"LOBO"
+  },
+  {
+    "KEY":50,
+    "nameEng":"TIGER",
+    "nameKor":"호랑이",
+    "nameFre":"TIGRE",
+    "namePor":"TIGRE",
+    "nameSpa":"TIGRE",
+    "nameBra":"TIGRE"
+  },
+  {
+    "KEY":51,
+    "nameEng":"LION",
+    "nameKor":"사자",
+    "nameFre":"LEÃO",
+    "namePor":"LEÃO",
+    "nameSpa":"LEÓN",
+    "nameBra":"LEÃO"
+  },
+  {
+    "KEY":52,
+    "nameEng":"GIRAFFE",
+    "nameKor":"기린",
+    "nameFre":"GIRAFA",
+    "namePor":"GIRAFA",
+    "nameSpa":"JIRAFA",
+    "nameBra":"GIRAFA"
+  },
+  {
+    "KEY":53,
+    "nameEng":"REINDEER",
+    "nameKor":"사슴",
+    "nameFre":"RENA",
+    "namePor":"RENA",
+    "nameSpa":"RENO",
+    "nameBra":"RENA"
+  },
+  {
+    "KEY":54,
+    "nameEng":"ELEPHANT",
+    "nameKor":"코끼리",
+    "nameFre":"ELEFANTE",
+    "namePor":"ELEFANTE",
+    "nameSpa":"ELEFANTE",
+    "nameBra":"ELEFANTE"
+  },
+  {
+    "KEY":55,
+    "nameEng":"HORSE",
+    "nameKor":"말",
+    "nameFre":"CAVALO",
+    "namePor":"CAVALO",
+    "nameSpa":"CABALLO",
+    "nameBra":"CAVALO"
+  },
+  {
+    "KEY":56,
+    "nameEng":"RHINO",
+    "nameKor":"코뿔소",
+    "nameFre":"RINOCERONTE",
+    "namePor":"RINOCERONTE",
+    "nameSpa":"RINO",
+    "nameBra":"RINOCERONTE"
+  },
+  {
+    "KEY":57,
+    "nameEng":"FISH DUDE",
+    "nameKor":"물고기 녀석",
+    "nameFre":"GAJO-PEIXE",
+    "namePor":"GAJO-PEIXE",
+    "nameSpa":"PESCADO AMIGO",
+    "nameBra":"GAJO-PEIXE"
+  },
+  {
+    "KEY":58,
+    "nameEng":"SPHINX",
+    "nameKor":"스핑크스",
+    "nameFre":"ESFINGE",
+    "namePor":"ESFINGE",
+    "nameSpa":"ESFINGE",
+    "nameBra":"ESFINGE"
+  },
+  {
+    "KEY":59,
+    "nameEng":"PHEO",
+    "nameKor":"피오",
+    "nameFre":"PHEO",
+    "namePor":"PHEO",
+    "nameSpa":"PHEO",
+    "nameBra":"PHEO"
+  },
+  {
+    "KEY":60,
+    "nameEng":"MEAT BALL",
+    "nameKor":"고기 고기",
+    "nameFre":"BOLA DE CARNE",
+    "namePor":"BOLA DE CARNE",
+    "nameSpa":"BOLA DE CARNE",
+    "nameBra":"BOLA DE CARNE"
+  },
+  {
+    "KEY":61,
+    "nameEng":"MANKIND",
+    "nameKor":"인류",
+    "nameFre":"HUMANIDADE",
+    "namePor":"HUMANIDADE",
+    "nameSpa":"HUMANIDAD",
+    "nameBra":"HUMANIDADE"
+  },
+  {
+    "KEY":62,
+    "nameEng":"DRAGON FAIRY",
+    "nameKor":"요정용",
+    "nameFre":"FADA DRAGÃO",
+    "namePor":"FADA DRAGÃO",
+    "nameSpa":"HADAS DRAGÓN",
+    "nameBra":"FADA DRAGÃO"
+  },
+  {
+    "KEY":63,
+    "nameEng":"PEGASUS",
+    "nameKor":"페가수스",
+    "nameFre":"PEGASUS",
+    "namePor":"PEGASUS",
+    "nameSpa":"PEGASUS",
+    "nameBra":"PEGASUS"
+  },
+  {
+    "KEY":64,
+    "nameEng":"UNIRAIN",
+    "nameKor":"무지개 유니콘",
+    "nameFre":"UNIRAIN",
+    "namePor":"UNIRAIN",
+    "nameSpa":"UNIRAIN",
+    "nameBra":"UNIRAIN"
+  },
+  {
+    "KEY":65,
+    "nameEng":"BENGAL",
+    "nameKor":"벵갈 고양이",
+    "nameFre":"TIGRE BENGALA",
+    "namePor":"TIGRE BENGALA",
+    "nameSpa":"BENGALA",
+    "nameBra":"TIGRE BENGALA"
+  },
+  {
+    "KEY":66,
+    "nameEng":"POLAR BEAR",
+    "nameKor":"콜라곰",
+    "nameFre":"URSO POLAR",
+    "namePor":"URSO POLAR",
+    "nameSpa":"OSO POLAR",
+    "nameBra":"URSO POLAR"
+  },
+  {
+    "KEY":67,
+    "nameEng":"BULLOWER",
+    "nameKor":"미친소",
+    "nameFre":"BOI GIRASSOL",
+    "namePor":"BOI GIRASSOL",
+    "nameSpa":"BULLOR",
+    "nameBra":"BOI GIRASSOL"
+  },
+  {
+    "KEY":68,
+    "nameEng":"MEDIGATOR",
+    "nameKor":"간호 악어",
+    "nameFre":"CROCOMÉDICO",
+    "namePor":"CROCOMÉDICO",
+    "nameSpa":"MÉDICOCODRILO",
+    "nameBra":"CROCOMÉDICO"
+  },
+  {
+    "KEY":69,
+    "nameEng":"OSTRICH",
+    "nameKor":"부자 타조",
+    "nameFre":"AVESTRUZ",
+    "namePor":"AVESTRUZ",
+    "nameSpa":"AVESTRICO",
+    "nameBra":"AVESTRUZ"
+  },
+  {
+    "KEY":70,
+    "nameEng":"BIGKONG",
+    "nameKor":"빅 콩",
+    "nameFre":"BIGKONG",
+    "namePor":"BIGKONG",
+    "nameSpa":"BIGKONG",
+    "nameBra":"BIGKONG"
+  },
+  {
+    "KEY":71,
+    "nameEng":"WOLFIRO",
+    "nameKor":"불늑대",
+    "nameFre":"WOLFIRO",
+    "namePor":"WOLFIRO",
+    "nameSpa":"LOBOFUEGO",
+    "nameBra":"WOLFIRO"
+  },
+  {
+    "KEY":72,
+    "nameEng":"LOVELY T.G",
+    "nameKor":"핑크 호랑이",
+    "nameFre":"TIGRE ENCANTADOR",
+    "namePor":"TIGRE ENCANTADOR",
+    "nameSpa":"PRECIOSO TIGRE",
+    "nameBra":"TIGRE ENCANTADOR"
+  },
+  {
+    "KEY":73,
+    "nameEng":"LION THE DARK",
+    "nameKor":"심바 삼촌",
+    "nameFre":"LEÃO SOMBRIO",
+    "namePor":"LEÃO SOMBRIO",
+    "nameSpa":"LEÓN LA OSCURO",
+    "nameBra":"LEÃO SOMBRIO"
+  },
+  {
+    "KEY":74,
+    "nameEng":"CAMELIA",
+    "nameKor":"이쁜이 낙타",
+    "nameFre":"CAMELIA",
+    "namePor":"CAMELIA",
+    "nameSpa":"CAMELLIA",
+    "nameBra":"CAMELIA"
+  },
+  {
+    "KEY":75,
+    "nameEng":"RUDOLPH-A7",
+    "nameKor":"루돌프 7호기",
+    "nameFre":"RUDOLPH-A7",
+    "namePor":"RUDOLPH-A7",
+    "nameSpa":"RUDOLPH-A7",
+    "nameBra":"RUDOLPH-A7"
+  },
+  {
+    "KEY":76,
+    "nameEng":"HIPPO",
+    "nameKor":"하마",
+    "nameFre":"HIPOPÓTAMO",
+    "namePor":"HIPOPÓTAMO",
+    "nameSpa":"HIPOPÓTAMO",
+    "nameBra":"HIPOPÓTAMO"
+  },
+  {
+    "KEY":77,
+    "nameEng":"GHOST",
+    "nameKor":"유령",
+    "nameFre":"FANTASMA",
+    "namePor":"FANTASMA",
+    "nameSpa":"FANTASMA",
+    "nameBra":"FANTASMA"
+  }
+]
